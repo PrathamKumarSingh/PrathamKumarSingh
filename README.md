@@ -1,3 +1,4 @@
+![logo](https://github.com/PrathamKumarSingh/PrathamKumarSingh/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Pratham Kumar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
